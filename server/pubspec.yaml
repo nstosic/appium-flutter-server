@@ -21,10 +21,10 @@ dependencies:
   path_provider: any
   synchronized: any
   package_info_plus: any
-  a_bridge: ^0.0.2
+  a_bridge: ^0.0.3
   device_info_plus: any
   image_picker: ^1.1.2
-  path: 1.9.0
+  path: 1.9.1
   permission_handler: any
   image_picker_platform_interface: any
 
